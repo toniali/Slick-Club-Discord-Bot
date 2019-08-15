@@ -1,0 +1,1 @@
+npm install discord.io && discord.js && opusscript && ytdl-core && yt-search && ffmpeg binaries
